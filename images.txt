@@ -8,3 +8,6 @@ nginx:latest
 ghcr.io/open-webui/open-webui:main
 ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
 ghcr.io/danny-avila/librechat-dev:latest
+mongo
+getmeili/meilisearch:v1.12.3
+ankane/pgvector:latest
