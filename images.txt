@@ -1,3 +1,4 @@
 redis/redis-stack:latest
 mlikiowa/napcat-docker:latest
 koishijs/koishi:latest
+ghcr.io/senshinya/moontv:latest
