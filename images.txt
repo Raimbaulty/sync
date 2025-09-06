@@ -1,5 +1,2 @@
-redis/redis-stack:latest
-mlikiowa/napcat-docker:latest
-koishijs/koishi:latest
-ghcr.io/moontechlab/lunatv:latest
 apache/kvrocks:latest
+ghcr.io/moontechlab/lunatv:latest
