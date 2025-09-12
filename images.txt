@@ -1,2 +1,4 @@
 apache/kvrocks:latest
 ghcr.io/moontechlab/lunatv:latest
+ghcr.io/djteang/orangetv:latest
+lampon/omnibox:latest
