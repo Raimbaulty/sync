@@ -1,1 +1,2 @@
 ghcr.io/raimbaulty/grok2api:latest
+ghcr.io/djteang/orangetv:latest
