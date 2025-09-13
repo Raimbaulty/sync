@@ -1,1 +1,1 @@
-ghcr.io/red3aaa/grok2api:latest
+ghcr.io/Raimbaulty/grok2api:latest
