@@ -1,1 +1,6 @@
-ghcr.io/raimbaulty/grok2api:latest
+ghcr.io/danny-avila/librechat-dev-api:latest
+nginx:1.27.0-alpine
+mongo:latest
+getmeili/meilisearch:v1.12.3
+pgvector/pgvector:0.8.0-pg15-trixie
+ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
